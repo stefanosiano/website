@@ -1,0 +1,2 @@
+Questo sito web, originariamente un esperimento per imparare Flutter.
+Si è espanso nel tempo per includere nuovi contenuti e nuove funzionalità, come il [blog](https://stefanosiano.github.io/website/blog).

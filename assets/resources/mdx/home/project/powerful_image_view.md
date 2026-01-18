@@ -1,0 +1,1 @@
+Android library for **ImageView**. It supports progress indicators, shapes, cpu and Renderscript blurring. Compatible with vector images.

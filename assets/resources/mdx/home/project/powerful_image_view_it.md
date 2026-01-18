@@ -1,0 +1,1 @@
+Libreria Android per **ImageView**. Supporta indicatori di progresso, forme, sfocatura con CPU e Renderscript. Compatibile con immagini vettoriali.

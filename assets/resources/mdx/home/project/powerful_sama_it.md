@@ -1,0 +1,1 @@
+**S**implified **A**ndroid **M**vvm **A**rchitecture. Una libreria Android basata sul pattern **MVVM** per semplificare e velocizzare lo sviluppo. Attualmente utilizzata nelle mie applicazioni.

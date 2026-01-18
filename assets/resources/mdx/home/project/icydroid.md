@@ -1,0 +1,1 @@
+Android app that can freeze other apps, preventing them from running in background. It requires root permissions.
