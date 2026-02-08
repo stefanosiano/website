@@ -1,0 +1,1 @@
+Android library for **SharedPreferences**. It supports obfuscation, logs, multiple files, type safety, nullables and callbacks on changes (optionally with LiveData).

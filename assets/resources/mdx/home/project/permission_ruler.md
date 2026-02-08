@@ -1,0 +1,1 @@
+Android app to protect privacy. It automatically revokes all permissions from all apps on screen off, granting them back on screen on. It needs root permissions.

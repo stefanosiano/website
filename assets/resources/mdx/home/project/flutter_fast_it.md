@@ -1,0 +1,1 @@
+Flutter **F**lutter **A**pp **S**implified **D**evelopment. Una libreria per Flutter per semplificare lo sviluppo attraverso classi base e annotazioni per generazione di codice.

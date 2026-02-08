@@ -1,0 +1,1 @@
+App Android per proteggere la privacy. Revoca automaticamente tutti i permessi da tutte le app quando lo schermo è spento, ripristinandoli quando lo schermo è acceso. Richiede i permessi di root.

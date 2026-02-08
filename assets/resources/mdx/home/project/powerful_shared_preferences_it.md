@@ -1,0 +1,1 @@
+Libreria Android per **SharedPreferences**. Supporta offuscamento, logging, file multipli, tipi, gestione dei valori nulli e callback sulle modifiche (opzionalmente con LiveData).

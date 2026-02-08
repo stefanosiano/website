@@ -1,0 +1,1 @@
+App Android che può congelare altre app, impedendo loro di funzionare in background. Richiede i permessi di root.
